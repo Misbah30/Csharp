@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\obj\Debug\GradedCC(Task1).csproj.AssemblyReference.cache
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\obj\Debug\GradedCC(Task1).csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\obj\Debug\GradedCC_Task1_.Form1.resources
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\obj\Debug\GradedCC_Task1_.Properties.Resources.resources
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\obj\Debug\GradedCC(Task1).csproj.GenerateResource.cache
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\obj\Debug\GradedCC(Task1).csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\bin\Debug\GradedCC(Task1).exe.config
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\bin\Debug\GradedCC(Task1).exe
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\bin\Debug\GradedCC(Task1).pdb
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\obj\Debug\GradedCC(Task1).exe
+C:\Users\student\source\repos\GradedCC(Task1)\GradedCC(Task1)\obj\Debug\GradedCC(Task1).pdb
