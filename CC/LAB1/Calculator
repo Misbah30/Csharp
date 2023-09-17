@@ -32,16 +32,3 @@ and store the new operator.
  }
 
 }
- lastOperation = operation;
- Display.Text = operation == '=' ? 
-accumulator.ToString() : "0";
- }
- private void Number_Pressed(object sender, EventArgs e)
- {
- // Add it to the display.
- string number = (sender as Button).Text;
- Display.Text = Display.Text == "0" ? number : 
-Display.Text + number;
- }
- }
-}
